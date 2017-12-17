@@ -6,9 +6,6 @@ Total tonnage (foreign and domestic) of commodites carried on commercial waterwa
 total_waterborne_commerce.csv
 https://catalog.data.gov/dataset/total-tonnage-foreign-and-domestic-of-commodites-carried-on-commercial-waterways
 
-AMERICAN HOUSING SURVEY: HOUSING AFFORDABILITY DATA SYSTEM 2013
-hads2013n_ASCII (2).zip
-https://www.huduser.gov/portal/datasets/hads/hads.html
 
 Most Popular Female Baby Names by Sex and Mother's Ethnic Group, New York City 2011
 2011_most_popular_baby_names.csv
