@@ -19,6 +19,7 @@
         <div class="large-12 cell">
           <div class="callout">
             <div class="chart">
+              <h2>Female Baby Name Popularity, NYC 2011</h2>
 
             </div>
           </div>
